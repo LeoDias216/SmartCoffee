@@ -13,6 +13,14 @@ main {
     color: red;
 }
 
+.meio2 {
+    color: yellow;
+}
+
+,meio3 {
+    color: aqua;
+}
+
 .fim {
     border-radius: 5px;
     background-color: white;
